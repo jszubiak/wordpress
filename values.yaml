@@ -470,7 +470,7 @@ customReadinessProbe: {}
 service:
   ## @param service.type WordPress service type
   ##
-  type: LoadBalancer
+  type: NodePort
   ## @param service.port WordPress service HTTP port
   ##
   port: 80
