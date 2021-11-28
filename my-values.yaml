@@ -1,0 +1,8 @@
+wordpressUsername: jszubiak
+wordpressPassword: jszubiak123
+wordpressEmail: jan.szubiak@gmail.com
+wordpressFirstName: Jan
+wordpressLastName: Szubiak
+wordpressBlogName: jms
+service:
+  type: NodePort
