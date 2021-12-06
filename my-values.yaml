@@ -4,3 +4,5 @@ wordpressEmail: jan.szubiak@gmail.com
 wordpressFirstName: Jan
 wordpressLastName: Szubiak
 wordpressBlogName: jms
+service:
+  type: LoadBalancer
